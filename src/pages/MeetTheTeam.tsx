@@ -13,7 +13,7 @@ const MeetTheTeam = () => {
     },
     {
       name: "Basagre, Guenne Marie P.",
-      role: "Reearcher",
+      role: "Researcher",
       bio: "Contructed the conceptual framewrok sampling method as well as the population and research questions.",
       funFact: "guenne.basagre210494@my.lsgh.edu.ph",
       icon: <Mail className="h-4 w-4" />,
