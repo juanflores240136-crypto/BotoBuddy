@@ -38,8 +38,8 @@ const VotingPage = () => {
 
   const candidates = [
     {
-      id: 'Adelin Acosta',
-      name: 'Adelin Acosta',
+      id: 'Marceline Lagdameo',
+      name: 'Marceline Lagdameo',
       party: 'BINI-A',
       position: 'Mayor'
     },
@@ -50,8 +50,8 @@ const VotingPage = () => {
       position: 'Mayor'
     },
     {
-      id: 'elena-rodriguez',
-      name: 'Elena Rodriguez',
+      id: 'Adeline Acosta',
+      name: 'Adeline Acosta',
       party: 'Independent',
       position: 'Mayor'
     }

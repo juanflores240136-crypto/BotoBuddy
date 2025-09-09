@@ -14,7 +14,7 @@ const CandidateProfiles = () => {
   const candidates = [
     {
       id: 1,
-      name: 'Adelin Acosta',
+      name: 'Marceline Lagdameo', // Changed name here
       party: 'BINI-A Party',
       position: 'Mayor',
       image: candidate1,
@@ -52,14 +52,14 @@ const CandidateProfiles = () => {
     },
     {
       id: 3,
-      name: 'Elena Rodriguez',
+      name: 'Adeline Acosta', // Changed name here
       party: 'Independent',
       position: 'Mayor',
       image: candidate3,
       location: 'District 3',
       experience: '5 years',
       bio: 'Community organizer and advocate for social justice and government transparency.',
-      fullBio: 'Elena Rodriguez has spent her career fighting for the underrepresented and ensuring that all voices are heard in government. Her grassroots approach to politics and commitment to transparency have earned her support across party lines.',
+      fullBio: 'Adeline Acosta has spent her career fighting for the underrepresented and ensuring that all voices are heard in government. Her grassroots approach to politics and commitment to transparency have earned her support across party lines.',
       stances: {
         economy: 'Emphasizes worker rights and living wage policies.',
         climate: 'Prioritizes environmental justice and community-led climate solutions.',

@@ -68,69 +68,24 @@ const SampleTest = () => {
         { id: 'b', text: 'Progressive taxation to fund public services', weight: { sarah: 3, michael: 1, elena: 3 } },
         { id: 'c', text: 'Balanced approach with targeted tax incentives', weight: { sarah: 2, michael: 2, elena: 2 } }
       ]
-    },
-    {
-      id: 6,
-      question: "What should be the government's role in the economy?",
-      options: [
-        { id: 'a', text: 'Minimal government intervention, free market solutions', weight: { sarah: 1, michael: 3, elena: 1 } },
-        { id: 'b', text: 'Moderate regulation with public-private partnerships', weight: { sarah: 3, michael: 2, elena: 2 } },
-        { id: 'c', text: 'Strong government programs to address inequality', weight: { sarah: 2, michael: 1, elena: 3 } }
-      ]
-    },
-    {
-      id: 7,
-      question: "What should be the government's role in the economy?",
-      options: [
-        { id: 'a', text: 'Minimal government intervention, free market solutions', weight: { sarah: 1, michael: 3, elena: 1 } },
-        { id: 'b', text: 'Moderate regulation with public-private partnerships', weight: { sarah: 3, michael: 2, elena: 2 } },
-        { id: 'c', text: 'Strong government programs to address inequality', weight: { sarah: 2, michael: 1, elena: 3 } }
-      ]
-    },
-    {
-      id: 8,
-      question: "What should be the government's role in the economy?",
-      options: [
-        { id: 'a', text: 'Minimal government intervention, free market solutions', weight: { sarah: 1, michael: 3, elena: 1 } },
-        { id: 'b', text: 'Moderate regulation with public-private partnerships', weight: { sarah: 3, michael: 2, elena: 2 } },
-        { id: 'c', text: 'Strong government programs to address inequality', weight: { sarah: 2, michael: 1, elena: 3 } }
-      ]
-    },
-    {
-      id: 9,
-      question: "What should be the government's role in the economy?",
-      options: [
-        { id: 'a', text: 'Minimal government intervention, free market solutions', weight: { sarah: 1, michael: 3, elena: 1 } },
-        { id: 'b', text: 'Moderate regulation with public-private partnerships', weight: { sarah: 3, michael: 2, elena: 2 } },
-        { id: 'c', text: 'Strong government programs to address inequality', weight: { sarah: 2, michael: 1, elena: 3 } }
-      ]
-    },
-    {
-      id: 10,
-      question: "What should be the government's role in the economy?",
-      options: [
-        { id: 'a', text: 'Minimal government intervention, free market solutions', weight: { sarah: 1, michael: 3, elena: 1 } },
-        { id: 'b', text: 'Moderate regulation with public-private partnerships', weight: { sarah: 3, michael: 2, elena: 2 } },
-        { id: 'c', text: 'Strong government programs to address inequality', weight: { sarah: 2, michael: 1, elena: 3 } }
-      ]
     }
   ];
 
   const candidates = [
     { 
-      id: 'Adelin Acosta', 
+      id: 'sarah',   // matches weight keys
       name: 'Adelin Acosta', 
       party: 'Democratic Party',
       color: 'bg-blue-500'
     },
     { 
-      id: 'Santhrielle Sevillal', 
+      id: 'michael', // matches weight keys
       name: 'Santhrielle Sevilla', 
       party: 'Republican Party',
       color: 'bg-red-500'
     },
     { 
-      id: 'elena', 
+      id: 'elena',   // already matched
       name: 'Elena Rodriguez', 
       party: 'Independent',
       color: 'bg-green-500'
