@@ -10,7 +10,8 @@ const Navigation = () => {
     { to: '/', label: 'Home' },
     { to: '/voting', label: 'Voting Page' },
     { to: '/candidates', label: 'Candidate Profiles' },
-    { to: '/test', label: 'Sample Test' },
+    { to: '/competence', label: 'Competence Test' },
+    { to: '/test', label: 'Alignment Test' },
     { to: '/about', label: 'About Us' },
     { to: '/team', label: 'Meet the Team' },
   ];

@@ -40,7 +40,7 @@ const MeetTheTeam = () => {
       name: "Lago, Juan Carlos ",
       role: "Researcher",
       bio: "Carlos mostly assisted the group in writing the research paper, providing insights and gathering relevant information for the study.",
-      funFact: "Has visited all 50 US states",
+      funFact: "juan.lago140011@my.lsgh.edu.ph",
       icon: <Mail className="h-4 w-4" />,
       image: "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.15752-9/541979369_1274446457235515_5157049046448902317_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE5acoCsGsLpEAL_f1U2s9zf31kMHmdZJx_fWQweZ1knC0TGLfqSb3R_qBsQY0r5xK1owlsPYRzsepsUmk7hDaN&_nc_ohc=F1uuIdUibS0Q7kNvwG-ECqZ&_nc_oc=AdnyTHPZ1aVq-v9_YbBgU05UzKNOkT_2sl4s_dhoSDIhz5SyCQkQuvvJ3-cR7X50Xdk&_nc_zt=23&_nc_ht=scontent.fmnl4-6.fna&oh=03_Q7cD3QFmZIiMhvWh_fWRo_nlGhWv9Lq-8wwim9J1agE4ulLFEQ&oe=68E6E119"
     },
